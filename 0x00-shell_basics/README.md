@@ -1,1 +1,1 @@
-a script that lists all files
+Delete the directory my_first_directory that is in the /tmp directory.
