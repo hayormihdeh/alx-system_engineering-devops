@@ -1,1 +1,1 @@
-Delete the directory my_first_directory that is in the /tmp directory.
+ a script that lists all files (even ones with names beginning with a period character, which are normally hidden
